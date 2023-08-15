@@ -6,9 +6,7 @@ A movie Recommender system using content based filtering and cosine similarity
 From a business standpoint, the more relevant products a user finds on the platform, the higher their engagement. This often results in increased revenue for the platform itself. Various sources say that as much as 35–40% of tech giants’ revenue comes from recommendations alone. 
 
 ## Contenet Based Movie Recommendation System : 
-
-![Content Based filtering](https://github.com/Adityaweb3/recommender-system/assets/100551659/880b558d-8895-492d-8a80-9f1d0d4670c2)
-
+![Content based 1](https://github.com/Adityaweb3/recommender-system/assets/100551659/37fe4ef4-98d6-4a26-9a4a-48bf46488975)
 Content-based methods are based on the similarity of movie attributes. Using this type of recommender system, if a user watches one movie, similar movies are recommended . 
 
 
